@@ -1,24 +1,92 @@
 <h1 align="center">Hi 👋, I'm GLORIYA V. JOHNSON</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gloriyavjohnson&label=Profile%20views&color=0e75b6&style=flat" alt="gloriyavjohnson" /> </p>
+<h3 align="center">Aspiring Data Analyst | Healthcare Data Analytics | Excel • Power BI • SQL • Python</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gloriyavjohnson" alt="gloriyavjohnson" /></a> </p>
-
-- 🌱 I’m currently learning **MS EXCEL, POWER BI, MYSQL, PYTHON**
-
-- 📫 How to reach me **gloriyav.johnson777@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/gloriya v. johnson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gloriya v. johnson" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/GloriyaVJohnson">GitHub</a> •
+  <a href="https://www.linkedin.com/in/gloriyavjohnson/">LinkedIn</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gloriyavjohnson&show_icons=true&locale=en&layout=compact" alt="gloriyavjohnson" /></p>
+## About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gloriyavjohnson&show_icons=true&locale=en" alt="gloriyavjohnson" /></p>
+I am an aspiring **Data Analyst** with a background in healthcare and a growing focus on data analytics, visualization, and technology.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gloriyavjohnson&" alt="gloriyavjohnson" /></p>
+I am currently developing practical skills in:
+
+- **Microsoft Excel**
+- **Power BI**
+- **MySQL / SQL**
+- **Python**
+- **Data Cleaning & Transformation**
+- **Data Analysis & Visualization**
+
+I am particularly interested in applying data analytics to healthcare-related problems and turning data into clear, actionable insights.
+
+## Current Learning
+
+🌱 **Currently learning:** MS Excel, Power BI, MySQL, and Python
+
+📊 **Areas of interest:** Data Analytics, Healthcare Analytics, Business Intelligence, and Data Visualization
+
+📫 **Email:** [gloriyav.johnson777@gmail.com](mailto:gloriyav.johnson777@gmail.com)
+
+## Skills
+
+| Category | Skills |
+|---|---|
+| Data Analysis | Data Cleaning, Data Transformation, Exploratory Analysis |
+| Spreadsheet Analytics | Microsoft Excel, PivotTables, PivotCharts, Slicers, VLOOKUP, IF, DATE, DATEDIF, TEXTJOIN |
+| Business Intelligence | Power BI |
+| Databases | MySQL, SQL |
+| Programming | Python |
+| Visualization | Charts, Dashboards, Data Visualization |
+| Analytics Focus | Healthcare Data Analytics |
+
+## Featured Projects
+
+### 🏥 Healthcare Data Analysis and Insights Dashboard
+
+A healthcare analytics project developed in Microsoft Excel covering:
+
+- Data cleaning and transformation
+- Consolidation of multiple healthcare tables
+- Healthcare master-table creation using Customer ID
+- PivotTable and PivotChart analysis
+- Interactive KPI dashboard
+- Weight Status and Diabetes Status slicers
+- Healthcare charge analysis
+- Age-based relationship analysis
+- Key insights and recommendations
+
+**Repository:**  
+[Healthcare Data Analysis and Insights Dashboard](https://github.com/GloriyaVJohnson/Healthcare-Data-Analysis-and-Insights-Dashboard)
+
+### 🧠 Stroke Prediction Model
+
+A machine-learning project focused on stroke prediction using healthcare data, including data cleaning, analysis, and logistic regression modelling.
+
+**Repository:**  
+[Stroke Prediction Model](https://github.com/GloriyaVJohnson/stroke-prediction-model)
+
+### 📊 Excel First Assignment
+
+An Excel-based data analysis and transformation project demonstrating spreadsheet data-cleaning and analytical techniques.
+
+**Repository:**  
+[Excel First Assignment](https://github.com/GloriyaVJohnson/Excel-First-Assignment)
+
+## Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/gloriyavjohnson/">
+    LinkedIn
+  </a>
+</p>
+
+---
+
+## Disclaimer
+
+The projects presented here are portfolio and academic learning projects. Analytical findings should be interpreted within the scope of the underlying datasets and validated with appropriate statistical or domain-specific methods before being used for real-world decision-making.
